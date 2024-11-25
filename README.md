@@ -1,4 +1,4 @@
-# Hi, I'm Niloofar Maleki 👋
+# Hi, I'm [Niloofar Maleki](https://linkedin.com/in/ni-maleki) 👋
 
 ### 💫 About Me:
 🔭 **Currently working on**: Crafting scalable, intuitive web apps with React & TypeScript. 
